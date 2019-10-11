@@ -4,3 +4,5 @@ Danguer's Blog Examples
 Here you will find a collection of examples from
 my blog at http://blog.danguer.com
 
+var uintArray = Base64Binary.decode(base64_string);  
+var byteArray = Base64Binary.decodeArrayBuffer(base64_string); 
